@@ -1,4 +1,4 @@
-# Swiss German developer Keyboard Layout
+# Swiss German Developer Keyboard Layout
 
 A slightly modified keyboard layout for swiss programmers. The layout is
 inspired by the [Magerman's Swiss Developer Keyboard](https://www.magerman.com/en/Keyboard.html).
@@ -11,7 +11,7 @@ preferred layout and you are good to go.
 The two most notable changes are:
 
 - Option for no dead keys (recommended)
-- Easier access to `[ ]` via `AltGR + 6,7` and `{ }` `AltGr + 8,9`
+- Easier access to `[ ]` via `AltGr + 6,7` and `{ }` `AltGr + 8,9`
 
 The full layout can be seen in the pictures below.
 
@@ -27,7 +27,7 @@ The full layout can be seen in the pictures below.
 **Shift**  
 ![shift](./images/shift.jpg)
 
-## What does "No Dead keys" means
+## What Does "No Dead Keys" Mean?
 
 [Dead Keys](https://www.wikiwand.com/en/Dead_key) refer to the modifier keys like ```
 and `~`, that by default wait for another letter to be pressed. With a `nodeadkeys`
@@ -36,7 +36,8 @@ layout, the symbols will be instered imediately after pressing it.
 ## Setup
 
 Download the layout (folder) you like and execute the `setup.exe`. After a restart,
-the layout should work fine.
+the layout should work fine. The `setup.exe` can also be used to remove the
+layout again.
 
 ## Generate your own
 
