@@ -15,6 +15,18 @@ The two most notable changes are:
 
 The full layout can be seen in the pictures below.
 
+**Base**  
+[base](./images/base.jpg)
+
+**AltGr / Ctrl + Shift**  
+[altGr](./images/altGr.jpg)
+
+**Ctrl**  
+[ctrl](./images/ctrl.jpg)
+
+**Shift**  
+[shift](./images/shift.jpg)
+
 ## What does "No Dead keys" means
 
 [Dead Keys](https://www.wikiwand.com/en/Dead_key) refer to the modifier keys like ```
