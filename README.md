@@ -29,8 +29,8 @@ The full layout can be seen in the pictures below.
 
 ## What Does "No Dead Keys" Mean?
 
-[Dead Keys](https://www.wikiwand.com/en/Dead_key) refer to the modifier keys like ```
-and `~`, that by default wait for another letter to be pressed. With a `nodeadkeys`
+[Dead Keys](https://www.wikiwand.com/en/Dead_key) refer to the modifier keys like <kbd>\`</kbd>
+and  <kbd>~</kbd>, that by default wait for another letter to be pressed. With a `nodeadkeys`
 layout, the symbols will be instered imediately after pressing it.
 
 ## Setup
