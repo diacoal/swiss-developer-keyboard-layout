@@ -35,9 +35,27 @@ layout, the symbols will be instered imediately after pressing it.
 
 ## Setup
 
+**Windows**  
 Download the layout (folder) you like and execute the `setup.exe`. After a restart,
 the layout should work fine. The `setup.exe` can also be used to remove the
 layout again.
+
+**Linux**  
+The remapping is done via `xkb`, which should work for any desktop environment
+for Xorg as well as Wayland.
+
+``` sh
+# Copy the layout files to $XDG_CONFIG_HOME/xkb
+cp -r linux/xkb ~/.config/
+
+# Apply the changes
+xkbcomp -I$HOME/.config/xkb $HOME/.config/xkb/keymap-chpn.txt $DISPLAY
+
+# If the layout works: Add the line above in your .profile or .xsessionrc
+
+# In theory this should apply it as well, but doesn't for me :(
+setxkbmap -layout ch -variant de_nodeadkeys -option chpn:chprogletters
+```
 
 ## Generate your own
 
