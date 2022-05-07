@@ -48,7 +48,8 @@ for Xorg as well as Wayland.
 # Copy the layout files to $XDG_CONFIG_HOME/xkb
 cp -r linux/xkb ~/.config/
 
-# Apply the changes
+# Apply the changes 
+# Note: the warning about additional symbols that could not be mapped can be ignored
 xkbcomp -I$HOME/.config/xkb $HOME/.config/xkb/keymap-chpn.txt $DISPLAY
 
 # If the layout works: Add the line above in your .profile or .xsessionrc
