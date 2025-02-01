@@ -1,5 +1,5 @@
 # Swiss Developer Keyboard Layout
-For of a project by [Sirius-A](https://github.com/Sirius-A/swiss-german-developer-keyboard-layout), I simply added a swiss-french layout option.
+Fork of a project by [Sirius-A](https://github.com/Sirius-A/swiss-german-developer-keyboard-layout), I simply added a swiss-french layout option.
 A slightly modified keyboard layout for swiss programmers. The layout is
 inspired by the [Magerman's Swiss Developer Keyboard](https://www.magerman.com/en/Keyboard.html).
 
