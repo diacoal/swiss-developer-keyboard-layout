@@ -16,8 +16,12 @@ The two most notable changes are:
 The full layout can be seen in the pictures below.
 
 **Base**  
-![base](./images/base.jpg)
-
+German:  
+![german-base](./images/german-base.jpg)
+  
+French:  
+![french-base](./images/german-base.jpg)
+  
 **AltGr / Ctrl + Shift**  
 ![altGr](./images/altGr.jpg)
 
@@ -25,8 +29,11 @@ The full layout can be seen in the pictures below.
 ![ctrl](./images/ctrl.jpg)
 
 **Shift**  
-![shift](./images/shift.jpg)
+German Shift:  
+![german-shift](./images/german-shift.jpg)  
 
+French Shift:  
+![french-shift](./images/french-shift.jpg)  
 ## What Does "No Dead Keys" Mean?
 
 [Dead Keys](https://www.wikiwand.com/en/Dead_key) refer to the modifier keys like <kbd>\`</kbd>
