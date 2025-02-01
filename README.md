@@ -1,5 +1,5 @@
-# Swiss German Developer Keyboard Layout
-
+# Swiss Developer Keyboard Layout
+For of a project by [Sirius-A](https://github.com/Sirius-A/swiss-german-developer-keyboard-layout), I simply added a swiss-french layout option.
 A slightly modified keyboard layout for swiss programmers. The layout is
 inspired by the [Magerman's Swiss Developer Keyboard](https://www.magerman.com/en/Keyboard.html).
 
@@ -42,7 +42,7 @@ layout again.
 
 **Linux**  
 The remapping is done via `xkb`, which should work for any desktop environment
-for Xorg as well as Wayland.
+for Xorg as well as Wayland. (Note: the swiss french layout is not yet available for linux)
 
 ``` sh
 # Copy the layout files to $XDG_CONFIG_HOME/xkb
